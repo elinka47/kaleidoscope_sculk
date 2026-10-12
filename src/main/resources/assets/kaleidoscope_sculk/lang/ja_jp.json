@@ -31,7 +31,9 @@
   "item.kaleidoscope_sculk.deepslate_cake_slice.effect": "再生能力 I (00:30), 耐性 III (00:30)",
   "item.kaleidoscope_sculk.deepslate_cake_slice.too_hungry": "§cこれ以上は歯が持たない！",
   "item.kaleidoscope_sculk.deepslate_stove": "深層岩のコンロ",
+
   "item.kaleidoscope_sculk.echo": "消音 (03:00)",
+
   "item.kaleidoscope_sculk.echo_puer_tea_bag": "残響のプーアル茶のティーバッグ",
   "item.kaleidoscope_sculk.echo_seed": "残響の種",
   "item.kaleidoscope_sculk.eerie_meat": "不気味な生肉",
@@ -84,7 +86,7 @@
   "item.kaleidoscope_sculk.boil_sheer_purity.tooltip": "ウォーデンの音波検知を抑制する効果がある",
   "item.kaleidoscope_sculk.cooked_warden_tendril_bowl.tooltip": "美味だが、なんとも不気味な味わい",
   "item.kaleidoscope_sculk.echo_seed.tooltip": "熟成するまでは刺激しない方がいいかもしれない",
-  "item.kaleidoscope_sculk.sculk_branch.tooltip": "スカルクから切り出された枝。すり潰して粉末にできる",
+  "item.kaleidoscope_sculk.sculk_branch.tooltip": "スカルクから切り出されたもの。すり潰して粉末にできる",
   "item.kaleidoscope_sculk.sculk_fungus.tooltip": "スカルクから生えた奇妙なキノコ",
   "item.kaleidoscope_sculk.sculk_fungus_soup.tooltip": "恐怖の匂いがする…",
   "item.kaleidoscope_sculk.sculk_meat_ingot.tooltip": "幽匿の果肉を圧縮加工して作られたインゴット",
@@ -94,7 +96,7 @@
   "item.kaleidoscope_sculk.sculk_plant_fiber.tooltip": "スカルクプラントから採れた繊維質",
   "item.kaleidoscope_sculk.sculk_soul_sand.tooltip": "スカルクのエネルギーが注入されたソウルサンド",
   "item.kaleidoscope_sculk.sculk_stew.tooltip": "深淵の秘密を囁くシチュー",
-  "item.kaleidoscope_sculk.soul.tooltip": "炎へと飛び散った魂",
+  "item.kaleidoscope_sculk.soul.tooltip": "炎の中へと散りゆく魂たち。魂の炎を消すと稀に現れるという",
   "item.kaleidoscope_sculk.soul_pancake.tooltip": "魂から伝わる温もり",
   "item.kaleidoscope_sculk.warden_tendril.tooltip": "ウォーデンが落とした奇妙な触角",
 
@@ -104,7 +106,7 @@
   "tooltip.kaleidoscope_sculk.echo_puer.maxim": "茶に染み込むスカルクの囁き、その余韻は長く留まる",
   "tooltip.kaleidoscope_sculk.pork_ancient_bone_soup.maxim": "骨をしゃぶりつくしてスープを飲み干そう",
   "tooltip.kaleidoscope_sculk.sculk_bone_sickle": "広範囲の作物や低木を一度に収穫する",
-  "tooltip.kaleidoscope_sculk.sculk_chicken_stew_block.maxim": "たった一匙で、冷気は立ち去る",
+  "tooltip.kaleidoscope_sculk.sculk_chicken_stew_block.maxim": "たったの一匙で冷気は立ち去る",
   "tooltip.kaleidoscope_sculk.sculk_fungus_soup.maxim": "喉を通る恐怖、胸に響く深淵の囁き",
   "tooltip.kaleidoscope_sculk.sculk_lamb_chop.maxim": "ディープダークから届いた柔らかな一口",
   "tooltip.kaleidoscope_sculk.sculk_pork_ribs_block.maxim": "骨付き肉の旨味、反響し続ける余韻",
@@ -128,7 +130,7 @@
   "death.attack.deepslate_cake_slice": "%1$s は深層岩ケーキに殺された",
   "death.attack.deepslate_cake_slice.player": "%1$s は %2$s との戦闘中に深層岩ケーキに殺された",
 
-  "key.category.kaleidoscope_sculk": "カレイドスコープ：スカルク",
+  "key.category.kaleidoscope_sculk": "Kaleidoscope Sculk",
   "key.kaleidoscope_sculk.sonic_boom": "ソニックブーム",
   "key.kaleidoscope_sculk.soul_sail": "魂の帆：刈り取り"
 }
